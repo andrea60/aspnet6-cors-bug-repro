@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3qdXL4+YJbHcuZoxTVDJAVoc067z2zF9Nu3Uh+yzJXc4zoC/HeHPTwHCBHHSo7M8VXFCkP0/XA3ZArw+rvXBQ==",
+  "success": true,
+  "projectFilePath": "C:\\pdp\\CorsProblemRepro\\CorsPolicyProblem\\CorsPolicyProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andreaa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\andreaa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\andreaa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\andreaa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\andreaa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\andreaa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
